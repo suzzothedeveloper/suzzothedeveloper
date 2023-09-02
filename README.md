@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @suzzothedeveloper
 - 👀 I’m interested in becoming a Developer
 - 🌱 I’m currently learning FrontEnd Development
-- 💞️ I’m looking to collaborate on coding projects
+- 💞️ I’m looking to collaborate with people in the same coding journey
 - 📫 How to reach me via my email- susangathura2@gmail.com 
 
 <!---
